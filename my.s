@@ -1,3 +1,25 @@
-getstatic     #7
-ldc           #13
+iload_0
+iload_1
+iadd
+iload_0
+iload_1
+idiv
+fload_0
+fload_1
+fadd
+fload_0
+fload_1
+fmul
+fload_0
+fload_1
+fdiv
+fload_0
+fload_1
+fsub
+iload_0
+iload_1
+imul
+iload_0
+iload_1
+isub
 return
