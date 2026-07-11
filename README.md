@@ -1,1 +1,1 @@
-virtual machine
+a simply encripter
